@@ -1,8 +1,8 @@
 {
-  "name": "electronapp",
-  "productName": "electronapp",
-  "version": "1.0.0",
-  "description": "My Electron application description",
+  "name": "NSUCH",
+  "productName": "NSUCH",
+  "version": "A.1.0",
+  "description": "NSUCH: Non-set user name chat host",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -21,7 +21,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "electronapp"
+            "name": "NSUCH"
           }
         },
         {
